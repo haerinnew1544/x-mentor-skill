@@ -2,6 +2,12 @@
 
 # X导师.skill
 
+<p align="center">
+  <img src="assets/hero.gif" alt="x-mentor-skill Hero Animation" />
+  <br/>
+  <sub>动画由 <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill 制作</sub>
+</p>
+
 > *「格式化是你能对写作做的最简单的10倍提升。」——Nicolas Cole*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
